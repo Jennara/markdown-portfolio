@@ -1,1 +1,1 @@
-![Aurora] (https://www.w3schools.com/w3css/img_lights.jpg)
+![aurora](https://www.w3schools.com/w3css/img_lights.jpg)
