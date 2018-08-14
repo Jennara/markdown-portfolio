@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# My name is Jenny
+## This is a smaller header
+###### This should be the smallest header
